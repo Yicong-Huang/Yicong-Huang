@@ -1610,32 +1610,32 @@
                     <div class="chart-bars horizontal">
                         <div class="entry">
                             <span class="name">TypeScript</span>
-                            <div class="bar" style="width: 42.342084539535705%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
-                            <span class="value">53%</span>
+                            <div class="bar" style="width: 48.6815747972888%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                            <span class="value">61%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Scala</span>
-                            <div class="bar" style="width: 30.893421621801483%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                            <span class="value">39%</span>
+                            <div class="bar" style="width: 25.62697419531915%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <span class="value">32%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Python</span>
-                            <div class="bar" style="width: 3.762685921538615%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                            <span class="value">5%</span>
+                            <div class="bar" style="width: 3.1585264303757428%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">4%</span>
                         </div>
                         <div class="entry">
                             <span class="name">HTML</span>
-                            <div class="bar" style="width: 2.7724353641899313%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 2.341261903321998%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">3%</span>
                         </div>
                         <div class="entry">
                             <span class="name">SCSS</span>
-                            <div class="bar" style="width: 0.16016149247440634%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 0.13360563078884077%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">0%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Shell</span>
-                            <div class="bar" style="width: 0.06921106045985426%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 0.058057042905457275%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">0%</span>
                         </div>
                     </div>
@@ -3720,7 +3720,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="7.485675539684798 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="7.486339309883945 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -3817,7 +3817,7 @@
                   <span class="prefix">Great</span> developer
                   
                     <span class="gh">
-                      ranked 473k out of 75m users
+                      ranked 473k out of 76m users
                     </span>
                   
                   
@@ -3913,7 +3913,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25/08/2021, 23:18 (timezone America/Los_Angeles) with lowlighter/metrics@3.13.0</span>
+                <span>Last updated 25/08/2021, 23:41 (timezone America/Los_Angeles) with lowlighter/metrics@3.13.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
