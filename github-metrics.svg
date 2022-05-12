@@ -354,28 +354,28 @@
                         <h3>Language activity</h3>
                         <div class="chart-bars horizontal">
                             <div class="entry">
-                                <span class="name">Scala</span>
-                                <div class="bar" style="width: 30.817776609830297%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="name">Python</span>
+                                <div class="bar" style="width: 30.930215126302375%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                                 <span class="value">39%</span>
                             </div>
                             <div class="entry">
-                                <span class="name">Python</span>
-                                <div class="bar" style="width: 30.371845278403864%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="name">Scala</span>
+                                <div class="bar" style="width: 30.46848062364141%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                                 <span class="value">38%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">TeX</span>
-                                <div class="bar" style="width: 14.099596721212059%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">18%</span>
+                                <div class="bar" style="width: 13.941983359568248%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">17%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">TypeScript</span>
-                                <div class="bar" style="width: 3.2492748056883536%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 3.2129525522824376%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">4%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Java</span>
-                                <div class="bar" style="width: 1.438866372209139%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 1.4239812108037877%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">2%</span>
                             </div>
                         </div>
@@ -2712,7 +2712,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 12 May 2022, 05:36:32 (timezone America/Los_Angeles) with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 12 May 2022, 06:27:24 (timezone America/Los_Angeles) with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
