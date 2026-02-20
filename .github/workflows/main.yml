@@ -23,6 +23,10 @@ jobs:
           config_timezone: America/Los_Angeles # Set timezone
           
           plugin_lines: yes
+          plugin_reactions: yes
+          plugin_people: yes
+          plugin_languages: yes
+          plugin_topics: yes
           
           plugin_achievements: yes
           plugin_achievements_threshold: B       # Display achievements with rank B or higher
